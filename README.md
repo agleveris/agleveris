@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**agleveris/agleveris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋I'm Alex
+I'm developer and teacher
+**agleveris/agleveris** Developer  ✨ Java, Angular and C++ ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on java, angular, c++
+- 🌱 I’m currently java, angular, C++
+- 👯 I’m looking to collaborate on Embeded C++ software
+- 🤔 I’m looking for help with angular
+- 💬 Ask me about java, and c++
+- ⚡ Fun fact: I love play the guitar
+<!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
